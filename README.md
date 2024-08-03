@@ -18,7 +18,7 @@ Contributors **must** follow the following rules:
 
 * **Make your Pull Request on the "dev" branch**, NOT the "master" branch.
 * Do not update the module's version number.
-* Follow [the coding standards][1].
+* Follow [the coding standards][2].
 
 ### Process in details
 
@@ -35,7 +35,12 @@ Contributors wishing to edit a module's files should follow the following proces
 
 That's it: you have contributed to this open source project! Congratulations!
 
+## License
+
+This module is released under the [MIT License][MIT] 
+
 [1]: https://github.com/andreihumulescu/ps-front-office-default-currency/releases
 [2]: https://devdocs.prestashop.com/8/development/coding-standards/
 [3]: https://devdocs.prestashop.com/8/contribute/contribution-guidelines/
 [4]: https://help.github.com/articles/using-pull-requests
+[MIT]: https://opensource.org/license/mit
