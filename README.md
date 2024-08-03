@@ -1,4 +1,4 @@
-# Front Office Default Currency
+# PrestaShop Front Office Default Currency
 
 ## Description
 PrestaShop module that allows you to set the default currency displayed to the customers. \
